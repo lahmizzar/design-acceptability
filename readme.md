@@ -12,4 +12,6 @@ All this checklist must be at [✓] and not at [✗] to accept a design product.
 - [ ] :hover given
 - [ ] alert, error, etc, on forms must be given
 
+Feel free to add some!
+
 Some advices there: [photoshopetiquette.com](http://www.photoshopetiquette.com/)
